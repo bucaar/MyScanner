@@ -197,6 +197,7 @@ public class MyScanner {
         String s = "My name is Aaron\nI am 22 years old.\r\n\r\nThis is 49.75 % fun.";
         
         MyScanner.VERBOSE = false;
+        System.out.println("change by om");
         
         MyScanner myScanner = new MyScanner(s);
         
